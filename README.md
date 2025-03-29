@@ -21,6 +21,7 @@
 - [lsp4clj](https://github.com/clojure-lsp/lsp4clj) LSP base support for any LSP that is implemented in Clojure 
 - [matcher-combinators](https://github.com/nubank/matcher-combinators) Library for creating matcher combinator to compare nested data structures 
 - [moclojer](https://github.com/moclojer) Simple and efficient HTTP mock server with specification in yaml, edn or OpenAPI 
+- [nodely](https://github.com/nubank/nodely) Declarative data dependency graph with conditionals.
 - [pathom](https://github.com/wilkerlucio/pathom) Pathom is a Clojure(script) engine for processing EQL requests. 
 - [pathom3](https://github.com/wilkerlucio/pathom3) Interface with complex data via graph mapping. 
 - [recife](https://github.com/pfeodrippe/recife) A Clojure model checker (using the TLA+/TLC engine). 
