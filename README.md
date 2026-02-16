@@ -25,7 +25,8 @@
 - [nodely](https://github.com/nubank/nodely) Declarative data dependency graph with conditionals.
 - [pathom](https://github.com/wilkerlucio/pathom) Pathom is a Clojure(script) engine for processing EQL requests. 
 - [pathom3](https://github.com/wilkerlucio/pathom3) Interface with complex data via graph mapping. 
-- [recife](https://github.com/pfeodrippe/recife) A Clojure model checker (using the TLA+/TLC engine). 
+- [recife](https://github.com/pfeodrippe/recife) A Clojure model checker (using the TLA+/TLC engine).
+- [sri](https://github.com/edipofederle/sri) A Ruby interpreter implemented in Clojure with support for GraalVM native image compilation
 - [state-flow](https://github.com/nubank/state-flow) Integration testing framework using a state monad in the backend for building and composing flows
 - [stub](https://github.com/clj-easy/stub) Library to generate stubs for other Clojure libraries.
 - [vybe](https://github.com/pfeodrippe/vybe) A Clojure framework for game dev (alpha). 
